@@ -1,0 +1,23 @@
+.main_convertor{
+    position: relative;
+    margin: 0 auto;
+    width: 1024px;
+    height: 200px;
+    border: 2px solid blue;
+    background: rgba(150, 150, 209, 0.533);
+}
+.convertor_content{
+    position: relative;
+    top: 40px;
+    left: 100px;
+    padding-top: 30px;
+}
+.convertor_content input{
+    font-size: 20px;
+    border: 2px solid blue;
+}
+.convertor_content select{
+    border:2px solid  yellow;
+    margin-left: 20px;
+    font-size: 20px;
+}
