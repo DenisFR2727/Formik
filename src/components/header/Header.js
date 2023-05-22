@@ -6,7 +6,7 @@ const Header = ({currency}) => {
 
         return (<header className="header">
             <div className="currency-container">
-                <h3>Exchange</h3>
+                <h3>Exchange__</h3>
             <ul>
                 <li>
                 <span className="currency-label">USD / UAH:</span>{" "}
