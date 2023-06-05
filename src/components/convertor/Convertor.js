@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+
+
 import "./convertor.css";
 
 const Convertor = ({currency}) => {
@@ -73,6 +75,7 @@ const Convertor = ({currency}) => {
           <option value="EUR">EUR</option>
         </select>
       </div>
+     
     </div>
   );
 };
