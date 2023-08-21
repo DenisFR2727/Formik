@@ -69,3 +69,5 @@ const FormRegistration = () => {
 }
 
 export default FormRegistration;
+
+// del .git\index.lock
